@@ -37,14 +37,14 @@ header {
     text-decoration: none;
     height: 26px;
     padding: 5px 8px;
-    color: #5b6168;
+    color: #a4aead;
     font-size: 14px;
     border-radius: 5px;
     border: 2px solid #1d2126;
 }
 
 .menu > li:hover a {
-    border: 2px solid #5b6168;
+    border: 2px solid #a4aead;;
 }
 
 .menu > li:first-child:hover a {
@@ -76,11 +76,11 @@ header {
     font-weight: 400;
     font-size: 12px;
     padding: 0 5px;
-    color: #5b6168;
+    color: #a4aead;
     background-color: rgba(255, 255, 255, 0);
 }
 ::-webkit-input-placeholder {
-    color: #5b6168;
+    color: #a4aead;
 }
 
 .search-icon {
